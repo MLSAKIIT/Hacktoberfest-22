@@ -3,3 +3,4 @@
 - [Harshit Yadav](https://github.com/CodeMaster17)
 - [Amaan Bhati](https://github.com/amaan-bhati)
 - [Krishna Kumar](https://github.com/krishna8421)
+- [Koushik Paul](https://github.com/koushikpaul-06)
