@@ -6,3 +6,4 @@
 - [Krishna Kumar](https://github.com/krishna8421)
 - [Isha Mishra](https://github.com/imishaa)
 - Archit Gupta
+- [Sidhant Raj](https://github.com/Sidhant-Raj)
