@@ -5,9 +5,7 @@
 - [Amaan Bhati](https://github.com/amaan-bhati)
 - [Koushik Paul](https://github.com/koushikpaul-06)
 - [Isha Mishra](https://github.com/imishaa)
-- Archit Gupta
-- Harshit Yadav
+- [Sidhant Raj](https://github.com/Sidhant-Raj)
 - [G Divya](https://github.com/g-divya)
 - [Saurav Kumar](https://github.com/sauravk000)
 - [Arunopal Dutta](https://github.com/EpicLulz1509)
-- Archit Gupta
