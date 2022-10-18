@@ -3,7 +3,7 @@
 - [Harshit Yadav](https://github.com/CodeMaster17)
 - [Pranshu Sarthak](https://github.com/pranshusarthak)
 - [Amaan Bhati](https://github.com/amaan-bhati)
-- [Krishna Kumar](https://github.com/krishna8421)
+- [Koushik Paul](https://github.com/koushikpaul-06)
 - [Isha Mishra](https://github.com/imishaa)
 - Archit Gupta
 - Harshit Yadav
