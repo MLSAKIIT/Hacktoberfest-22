@@ -3,7 +3,9 @@
 - [Harshit Yadav](https://github.com/CodeMaster17)
 - [Pranshu Sarthak](https://github.com/pranshusarthak)
 - [Amaan Bhati](https://github.com/amaan-bhati)
-- [Krishna Kumar](https://github.com/krishna8421)
+- [Koushik Paul](https://github.com/koushikpaul-06)
 - [Isha Mishra](https://github.com/imishaa)
-- Archit Gupta
 - [Sidhant Raj](https://github.com/Sidhant-Raj)
+- [G Divya](https://github.com/g-divya)
+- [Saurav Kumar](https://github.com/sauravk000)
+- [Arunopal Dutta](https://github.com/EpicLulz1509)
