@@ -7,5 +7,8 @@
 - [Isha Mishra](https://github.com/imishaa)
 - [Sidhant Raj](https://github.com/Sidhant-Raj)
 - [G Divya](https://github.com/g-divya)
-- [Saurav Kumar](https://github.com/sauravk000)
+- [Saurav Kumar](https://github.com/)
 - [Arunopal Dutta](https://github.com/EpicLulz1509)
+- [Surojit Das] (https://github.com/thesurojit-das)
+
+
